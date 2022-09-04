@@ -1,0 +1,63 @@
+ul{
+    list-style-type: none;
+}
+header{
+    background-color: #5c0931;
+}
+.container-fluid div{
+    justify-content: center;
+}
+
+li{
+    margin: 10px;}
+a{
+    font-size: large;
+    color: black;
+    border-bottom: solid black 1px;
+}
+
+.btn-danger {
+    background-color: #ffa903;
+    border-color: black;}
+
+div>button{
+    margin-left: 50px;
+}
+
+.vs{
+    margin-top: 16px;   
+}
+h1,h2{
+    font-weight: 700;
+}
+.divM{
+    margin-top: 40px;
+}
+.imgIndex{
+    border-radius: 30px;
+} 
+footer{
+    background-color: #5c0931;
+}
+.btn-primary{
+    background-color: #ffa903;
+    border: black;
+}
+
+.row.g-3{
+    justify-content: center;
+}
+
+
+.pFooter{
+    border-radius: 100px;
+    background-color: #ffa903;
+    margin-top: 50px;
+    width: 50%;
+
+}
+
+.estadios{
+    width: 600px;
+    height: 400px;
+}
